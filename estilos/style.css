@@ -41,7 +41,7 @@ section#login {
 
 div#imagem {
     display: block;
-    background-image: url(/imagens/pexels-david-underland-3523621.jpg);
+    background: url(../imagens/pexels-lawlesscapture-13737562.jpg) no-repeat center bottom/cover;
     height: 200px;
 }
 
