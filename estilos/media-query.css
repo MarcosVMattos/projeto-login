@@ -33,10 +33,11 @@
     }
 
     section#login {
-        width: 950px;
+        width: 850px;
+        height: 380px;
     }
 
-    div#imagem {
+    section#login div#imagem {
         float: right;
         width: 50%;
         height: 100%;
@@ -58,5 +59,10 @@
 
     label {
         font-size: 1em;
+    }
+
+    form div.campo input{
+        height: 97%;
+        padding-top: 2px;
     }
 }
